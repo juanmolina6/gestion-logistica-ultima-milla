@@ -139,6 +139,3 @@ Las principales decisiones tomadas durante esta actividad son:
 * Considerar el crecimiento futuro de la operación.
 
 En esta etapa todavía no se han seleccionado tecnologías, frameworks, bases de datos o una arquitectura específica, ya que primero se busca comprender el problema y el contexto del negocio.
-
-* [x] Documentación organizada.
-* [ ] Video de sustentación publicado.
