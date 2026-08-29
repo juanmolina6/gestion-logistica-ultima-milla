@@ -2,6 +2,8 @@
 
 ## Actividad 1: Diagnóstico y contexto arquitectónico
 
+## Link Video: https://youtu.be/r5czyI8k6OU?si=vWyYPDOtQQ38A1lv
+
 Proyecto orientado al análisis inicial de una plataforma de gestión logística de última milla para una empresa de retail digital.
 
 El objetivo de esta actividad es comprender el problema, el contexto, los actores, el alcance, las restricciones y los riesgos del sistema antes de tomar decisiones relacionadas con tecnologías o arquitectura.
